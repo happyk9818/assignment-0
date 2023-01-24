@@ -8,7 +8,7 @@
 # taekyk1@uci.edu
 # 44996270
 
-n = int(input("Number of times repeating: "))
+n = int(input())
 
 print("+-+")
 
